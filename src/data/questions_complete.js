@@ -23,37 +23,37 @@ const data = [
     category: "GTA ",
     questions: [
       {
-        question: "O que é Vanilla JavaScript?",
+        question: "Qual é o nome do protagonista do jogo Grand Theft Auto: Vice City?",
         options: [
-          "JavaScript puro",
-          "Uma biblioteca JavaScript",
-          "Um framework JavaScript",
-          "Um compilador de JavaScript",
+          "Tommy Vercetti",
+          "Carl CJ Johnson",
+          "Niko Bellic",
+          "Michael De Santa",
         ],
-        answer: "JavaScript puro",
+        answer: "Tommy Vercetti",
       },
       {
-        question: "Com qual instrução declaramos uma constante em JavaScript?",
-        options: ["const", "let", "var", "define"],
-        answer: "const",
+        question: "Em qual cidade fictícia é ambientado o jogo Grand Theft Auto: San Andreas?",
+        options: [" Liberty City", "Vice City", "San Fierro", "Los Santos"],
+        answer: "Los Santos",
       },
       {
-        question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
-        options: ["string", "number", "boolean", "float"],
-        answer: "float",
+        question: " Qual é o nome da organização criminosa que o jogador deve enfrentar em Grand Theft Auto V?",
+        options: ["The Lost MC", "The Ballas", "The FIB", "The Triads"],
+        answer: "The FIB",
       },
       {
-        question: "Qual dos métodos a seguir seleciona um elemento?",
-        options: ["querySelector", "parseInt", "sort", "reduce"],
-        answer: "querySelector",
+        question: "Qual foi o primeiro jogo da série Grand Theft Auto a utilizar um mundo aberto tridimensional?",
+        options: ["Grand Theft Auto", "Grand Theft Auto II", "Grand Theft Auto III", "Grand Theft Auto: Vice City"],
+        answer: "Grand Theft Auto III",
       },
       {
         question:
-          "Qual destas propriedades da a quantidade de elementos de um array?",
-        options: ["qty", "length", "items", "index"],
-        answer: "length",
+          "Em Grand Theft Auto IV, qual é o nome do primo de Niko Bellic que o chama para vir para Liberty City?",
+        options: ["Roman Bellic", "Viktor Bellic", " Nikolai Bellic", "Dimitri Rascalov"],
+        answer: "Roman Bellic",
       },
-    ],
+    ]
   },
 ];
 
